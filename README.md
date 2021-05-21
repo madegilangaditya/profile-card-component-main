@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Here](https://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--sSB6uUyA)
-- Live Site URL: [Here](https://profile-card-component-main-phi-gilt.vercel.app/)
+- Live Site URL: [Here](https://madegilangaditya.github.io/profile-card-component-main/)
 
 ## Built with
 
