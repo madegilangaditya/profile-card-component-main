@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Here](https://www.frontendmentor.io/solutions/first-time-using-css-grid-and-some-sass-3F6JV5RRi)
-- Live Site URL: [Here](https://madegilangaditya.github.io/3-column-preview-card-component-main/)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/mobile-first-workflow-css-grid-css-flexbox--sSB6uUyA)
+- Live Site URL: [Here](https://profile-card-component-main-phi-gilt.vercel.app/)
 
 ## Built with
 
